@@ -1,2 +1,0 @@
-![](https://github-readme-stats.vercel.app/api?username=rezcolen3&show_icons=true&theme=radical&include_all_commits=true&rank_icon=percentile)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rezcolen3&theme=radical&layout=compact)
