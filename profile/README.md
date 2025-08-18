@@ -21,6 +21,10 @@ ps. im a total degenerate with no life using a entirely riced linux desktop (btw
 ![Javascript](https://img.shields.io/badge/javascript-%2320232a.svg?style=for-the-badge&logo=javascript)
 ![Svelte](https://img.shields.io/badge/svelte-%2320232a.svg?style=for-the-badge&logo=svelte)
 
+### Best Work
+
+soon :3
+
 ### Say Hi
 - [Hack Club Slack](https://hackclub.com/slack/) (only for under 18): [@RezHackXYZ](https://hackclub.slack.com/team/U082KMLM7DW)
 - Email: [rhythmupa@gmail.com](mailto:rhythmupa@gmail.com)
